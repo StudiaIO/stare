@@ -9,7 +9,9 @@ Aplikacja webowa hotelu "Marmur" umożliwiająca rejestrację/logowanie/składan
 -Maven
 -MongoDB
 <h2>Features that we currently work on</h2>
+
 -Rejestracja/logowanie
 
 -Dodawanie/usuwanie/aktualizowanie danych w bazie danych
+
 -Dokonywanie rezerwacji pokoi hotelowych
