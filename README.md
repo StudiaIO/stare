@@ -12,5 +12,4 @@ Aplikacja webowa hotelu "Marmur" umożliwiająca rejestrację/logowanie/składan
 -Rejestracja/logowanie
 
 -Dodawanie/usuwanie/aktualizowanie danych w bazie danych
-
 -Dokonywanie rezerwacji pokoi hotelowych
