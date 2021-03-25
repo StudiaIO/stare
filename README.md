@@ -1,1 +1,2 @@
-# Aplikacja webowa hotelu "Marmur" umożliwiająca rejestrację/logowanie/składanie rezerwacji pokoi użytkownikowi.
+#Eternity
+Aplikacja webowa hotelu "Marmur" umożliwiająca rejestrację/logowanie/składanie rezerwacji pokoi użytkownikowi.
